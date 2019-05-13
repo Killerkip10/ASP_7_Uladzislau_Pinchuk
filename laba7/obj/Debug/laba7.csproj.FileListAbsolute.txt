@@ -1,0 +1,653 @@
+D:\study\3 course\2 семестр\избранные главы информатики\лабы\laba7\laba7\bin\ApplicationInsights.config
+D:\study\3 course\2 семестр\избранные главы информатики\лабы\laba7\laba7\bin\laba7.dll.config
+D:\study\3 course\2 семестр\избранные главы информатики\лабы\laba7\laba7\bin\laba7.dll
+D:\study\3 course\2 семестр\избранные главы информатики\лабы\laba7\laba7\bin\laba7.pdb
+D:\study\3 course\2 семестр\избранные главы информатики\лабы\laba7\laba7\bin\roslyn\csc.exe
+D:\study\3 course\2 семестр\избранные главы информатики\лабы\laba7\laba7\bin\roslyn\csc.exe.config
+D:\study\3 course\2 семестр\избранные главы информатики\лабы\laba7\laba7\bin\roslyn\csc.rsp
+D:\study\3 course\2 семестр\избранные главы информатики\лабы\laba7\laba7\bin\roslyn\csi.exe
+D:\study\3 course\2 семестр\избранные главы информатики\лабы\laba7\laba7\bin\roslyn\csi.exe.config
+D:\study\3 course\2 семестр\избранные главы информатики\лабы\laba7\laba7\bin\roslyn\csi.rsp
+D:\study\3 course\2 семестр\избранные главы информатики\лабы\laba7\laba7\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\study\3 course\2 семестр\избранные главы информатики\лабы\laba7\laba7\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\study\3 course\2 семестр\избранные главы информатики\лабы\laba7\laba7\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\study\3 course\2 семестр\избранные главы информатики\лабы\laba7\laba7\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\study\3 course\2 семестр\избранные главы информатики\лабы\laba7\laba7\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\study\3 course\2 семестр\избранные главы информатики\лабы\laba7\laba7\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\study\3 course\2 семестр\избранные главы информатики\лабы\laba7\laba7\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\study\3 course\2 семестр\избранные главы информатики\лабы\laba7\laba7\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\study\3 course\2 семестр\избранные главы информатики\лабы\laba7\laba7\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\study\3 course\2 семестр\избранные главы информатики\лабы\laba7\laba7\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\study\3 course\2 семестр\избранные главы информатики\лабы\laba7\laba7\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\study\3 course\2 семестр\избранные главы информатики\лабы\laba7\laba7\bin\roslyn\System.AppContext.dll
+D:\study\3 course\2 семестр\избранные главы информатики\лабы\laba7\laba7\bin\roslyn\System.Collections.Immutable.dll
+D:\study\3 course\2 семестр\избранные главы информатики\лабы\laba7\laba7\bin\roslyn\System.Console.dll
+D:\study\3 course\2 семестр\избранные главы информатики\лабы\laba7\laba7\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\study\3 course\2 семестр\избранные главы информатики\лабы\laba7\laba7\bin\roslyn\System.Diagnostics.Process.dll
+D:\study\3 course\2 семестр\избранные главы информатики\лабы\laba7\laba7\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\study\3 course\2 семестр\избранные главы информатики\лабы\laba7\laba7\bin\roslyn\System.IO.Compression.dll
+D:\study\3 course\2 семестр\избранные главы информатики\лабы\laba7\laba7\bin\roslyn\System.IO.FileSystem.dll
+D:\study\3 course\2 семестр\избранные главы информатики\лабы\laba7\laba7\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+D:\study\3 course\2 семестр\избранные главы информатики\лабы\laba7\laba7\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\study\3 course\2 семестр\избранные главы информатики\лабы\laba7\laba7\bin\roslyn\System.IO.Pipes.dll
+D:\study\3 course\2 семестр\избранные главы информатики\лабы\laba7\laba7\bin\roslyn\System.Reflection.Metadata.dll
+D:\study\3 course\2 семестр\избранные главы информатики\лабы\laba7\laba7\bin\roslyn\System.Security.AccessControl.dll
+D:\study\3 course\2 семестр\избранные главы информатики\лабы\laba7\laba7\bin\roslyn\System.Security.Claims.dll
+D:\study\3 course\2 семестр\избранные главы информатики\лабы\laba7\laba7\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\study\3 course\2 семестр\избранные главы информатики\лабы\laba7\laba7\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\study\3 course\2 семестр\избранные главы информатики\лабы\laba7\laba7\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\study\3 course\2 семестр\избранные главы информатики\лабы\laba7\laba7\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\study\3 course\2 семестр\избранные главы информатики\лабы\laba7\laba7\bin\roslyn\System.Security.Principal.Windows.dll
+D:\study\3 course\2 семестр\избранные главы информатики\лабы\laba7\laba7\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\study\3 course\2 семестр\избранные главы информатики\лабы\laba7\laba7\bin\roslyn\System.Threading.Thread.dll
+D:\study\3 course\2 семестр\избранные главы информатики\лабы\laba7\laba7\bin\roslyn\System.ValueTuple.dll
+D:\study\3 course\2 семестр\избранные главы информатики\лабы\laba7\laba7\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\study\3 course\2 семестр\избранные главы информатики\лабы\laba7\laba7\bin\roslyn\System.Xml.XmlDocument.dll
+D:\study\3 course\2 семестр\избранные главы информатики\лабы\laba7\laba7\bin\roslyn\System.Xml.XPath.dll
+D:\study\3 course\2 семестр\избранные главы информатики\лабы\laba7\laba7\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\study\3 course\2 семестр\избранные главы информатики\лабы\laba7\laba7\bin\roslyn\vbc.exe
+D:\study\3 course\2 семестр\избранные главы информатики\лабы\laba7\laba7\bin\roslyn\vbc.exe.config
+D:\study\3 course\2 семестр\избранные главы информатики\лабы\laba7\laba7\bin\roslyn\vbc.rsp
+D:\study\3 course\2 семестр\избранные главы информатики\лабы\laba7\laba7\bin\roslyn\VBCSCompiler.exe
+D:\study\3 course\2 семестр\избранные главы информатики\лабы\laba7\laba7\bin\roslyn\VBCSCompiler.exe.config
+D:\study\3 course\2 семестр\избранные главы информатики\лабы\laba7\laba7\bin\Antlr3.Runtime.dll
+D:\study\3 course\2 семестр\избранные главы информатики\лабы\laba7\laba7\bin\AspNet.ScriptManager.bootstrap.dll
+D:\study\3 course\2 семестр\избранные главы информатики\лабы\laba7\laba7\bin\AspNet.ScriptManager.jQuery.dll
+D:\study\3 course\2 семестр\избранные главы информатики\лабы\laba7\laba7\bin\Microsoft.AI.Agent.Intercept.dll
+D:\study\3 course\2 семестр\избранные главы информатики\лабы\laba7\laba7\bin\Microsoft.AI.DependencyCollector.dll
+D:\study\3 course\2 семестр\избранные главы информатики\лабы\laba7\laba7\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\study\3 course\2 семестр\избранные главы информатики\лабы\laba7\laba7\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\study\3 course\2 семестр\избранные главы информатики\лабы\laba7\laba7\bin\Microsoft.AI.Web.dll
+D:\study\3 course\2 семестр\избранные главы информатики\лабы\laba7\laba7\bin\Microsoft.AI.WindowsServer.dll
+D:\study\3 course\2 семестр\избранные главы информатики\лабы\laba7\laba7\bin\Microsoft.ApplicationInsights.dll
+D:\study\3 course\2 семестр\избранные главы информатики\лабы\laba7\laba7\bin\Microsoft.AspNet.FriendlyUrls.dll
+D:\study\3 course\2 семестр\избранные главы информатики\лабы\laba7\laba7\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+D:\study\3 course\2 семестр\избранные главы информатики\лабы\laba7\laba7\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\study\3 course\2 семестр\избранные главы информатики\лабы\laba7\laba7\bin\Microsoft.ScriptManager.MSAjax.dll
+D:\study\3 course\2 семестр\избранные главы информатики\лабы\laba7\laba7\bin\Microsoft.ScriptManager.WebForms.dll
+D:\study\3 course\2 семестр\избранные главы информатики\лабы\laba7\laba7\bin\Microsoft.Web.Infrastructure.dll
+D:\study\3 course\2 семестр\избранные главы информатики\лабы\laba7\laba7\bin\Newtonsoft.Json.dll
+D:\study\3 course\2 семестр\избранные главы информатики\лабы\laba7\laba7\bin\System.Web.Optimization.dll
+D:\study\3 course\2 семестр\избранные главы информатики\лабы\laba7\laba7\bin\WebGrease.dll
+D:\study\3 course\2 семестр\избранные главы информатики\лабы\laba7\laba7\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\study\3 course\2 семестр\избранные главы информатики\лабы\laba7\laba7\bin\System.Web.Optimization.xml
+D:\study\3 course\2 семестр\избранные главы информатики\лабы\laba7\laba7\bin\Antlr3.Runtime.pdb
+D:\study\3 course\2 семестр\избранные главы информатики\лабы\laba7\laba7\bin\Microsoft.AspNet.FriendlyUrls.xml
+D:\study\3 course\2 семестр\избранные главы информатики\лабы\laba7\laba7\bin\Newtonsoft.Json.xml
+D:\study\3 course\2 семестр\избранные главы информатики\лабы\laba7\laba7\bin\Microsoft.ApplicationInsights.xml
+D:\study\3 course\2 семестр\избранные главы информатики\лабы\laba7\laba7\bin\Microsoft.AI.DependencyCollector.xml
+D:\study\3 course\2 семестр\избранные главы информатики\лабы\laba7\laba7\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\study\3 course\2 семестр\избранные главы информатики\лабы\laba7\laba7\bin\Microsoft.AI.WindowsServer.xml
+D:\study\3 course\2 семестр\избранные главы информатики\лабы\laba7\laba7\bin\Microsoft.AI.Web.xml
+D:\study\3 course\2 семестр\избранные главы информатики\лабы\laba7\laba7\bin\ru\System.Web.Optimization.resources.dll
+D:\study\3 course\2 семестр\избранные главы информатики\лабы\laba7\laba7\bin\ru\Microsoft.AspNet.FriendlyUrls.resources.dll
+D:\study\3 course\2 семестр\избранные главы информатики\лабы\laba7\laba7\obj\Debug\laba7.csprojResolveAssemblyReference.cache
+D:\study\3 course\2 семестр\избранные главы информатики\лабы\laba7\laba7\obj\Debug\laba7.csproj.CoreCompileInputs.cache
+D:\study\3 course\2 семестр\избранные главы информатики\лабы\laba7\laba7\obj\Debug\laba7.csproj.CopyComplete
+D:\study\3 course\2 семестр\избранные главы информатики\лабы\laba7\laba7\obj\Debug\laba7.dll
+D:\study\3 course\2 семестр\избранные главы информатики\лабы\laba7\laba7\obj\Debug\laba7.pdb
+D:\study\3 course\2 семестр\избранные главы информатики\лабы\laba7\laba7\bin\Microsoft.Win32.Primitives.dll
+D:\study\3 course\2 семестр\избранные главы информатики\лабы\laba7\laba7\bin\netstandard.dll
+D:\study\3 course\2 семестр\избранные главы информатики\лабы\laba7\laba7\bin\System.AppContext.dll
+D:\study\3 course\2 семестр\избранные главы информатики\лабы\laba7\laba7\bin\System.Collections.Concurrent.dll
+D:\study\3 course\2 семестр\избранные главы информатики\лабы\laba7\laba7\bin\System.Collections.dll
+D:\study\3 course\2 семестр\избранные главы информатики\лабы\laba7\laba7\bin\System.Collections.NonGeneric.dll
+D:\study\3 course\2 семестр\избранные главы информатики\лабы\laba7\laba7\bin\System.Collections.Specialized.dll
+D:\study\3 course\2 семестр\избранные главы информатики\лабы\laba7\laba7\bin\System.ComponentModel.dll
+D:\study\3 course\2 семестр\избранные главы информатики\лабы\laba7\laba7\bin\System.ComponentModel.EventBasedAsync.dll
+D:\study\3 course\2 семестр\избранные главы информатики\лабы\laba7\laba7\bin\System.ComponentModel.Primitives.dll
+D:\study\3 course\2 семестр\избранные главы информатики\лабы\laba7\laba7\bin\System.ComponentModel.TypeConverter.dll
+D:\study\3 course\2 семестр\избранные главы информатики\лабы\laba7\laba7\bin\System.Console.dll
+D:\study\3 course\2 семестр\избранные главы информатики\лабы\laba7\laba7\bin\System.Data.Common.dll
+D:\study\3 course\2 семестр\избранные главы информатики\лабы\laba7\laba7\bin\System.Diagnostics.Contracts.dll
+D:\study\3 course\2 семестр\избранные главы информатики\лабы\laba7\laba7\bin\System.Diagnostics.Debug.dll
+D:\study\3 course\2 семестр\избранные главы информатики\лабы\laba7\laba7\bin\System.Diagnostics.FileVersionInfo.dll
+D:\study\3 course\2 семестр\избранные главы информатики\лабы\laba7\laba7\bin\System.Diagnostics.Process.dll
+D:\study\3 course\2 семестр\избранные главы информатики\лабы\laba7\laba7\bin\System.Diagnostics.StackTrace.dll
+D:\study\3 course\2 семестр\избранные главы информатики\лабы\laba7\laba7\bin\System.Diagnostics.TextWriterTraceListener.dll
+D:\study\3 course\2 семестр\избранные главы информатики\лабы\laba7\laba7\bin\System.Diagnostics.Tools.dll
+D:\study\3 course\2 семестр\избранные главы информатики\лабы\laba7\laba7\bin\System.Diagnostics.TraceSource.dll
+D:\study\3 course\2 семестр\избранные главы информатики\лабы\laba7\laba7\bin\System.Diagnostics.Tracing.dll
+D:\study\3 course\2 семестр\избранные главы информатики\лабы\laba7\laba7\bin\System.Drawing.Primitives.dll
+D:\study\3 course\2 семестр\избранные главы информатики\лабы\laba7\laba7\bin\System.Dynamic.Runtime.dll
+D:\study\3 course\2 семестр\избранные главы информатики\лабы\laba7\laba7\bin\System.Globalization.Calendars.dll
+D:\study\3 course\2 семестр\избранные главы информатики\лабы\laba7\laba7\bin\System.Globalization.dll
+D:\study\3 course\2 семестр\избранные главы информатики\лабы\laba7\laba7\bin\System.Globalization.Extensions.dll
+D:\study\3 course\2 семестр\избранные главы информатики\лабы\laba7\laba7\bin\System.IO.Compression.dll
+D:\study\3 course\2 семестр\избранные главы информатики\лабы\laba7\laba7\bin\System.IO.Compression.ZipFile.dll
+D:\study\3 course\2 семестр\избранные главы информатики\лабы\laba7\laba7\bin\System.IO.dll
+D:\study\3 course\2 семестр\избранные главы информатики\лабы\laba7\laba7\bin\System.IO.FileSystem.dll
+D:\study\3 course\2 семестр\избранные главы информатики\лабы\laba7\laba7\bin\System.IO.FileSystem.DriveInfo.dll
+D:\study\3 course\2 семестр\избранные главы информатики\лабы\laba7\laba7\bin\System.IO.FileSystem.Primitives.dll
+D:\study\3 course\2 семестр\избранные главы информатики\лабы\laba7\laba7\bin\System.IO.FileSystem.Watcher.dll
+D:\study\3 course\2 семестр\избранные главы информатики\лабы\laba7\laba7\bin\System.IO.IsolatedStorage.dll
+D:\study\3 course\2 семестр\избранные главы информатики\лабы\laba7\laba7\bin\System.IO.MemoryMappedFiles.dll
+D:\study\3 course\2 семестр\избранные главы информатики\лабы\laba7\laba7\bin\System.IO.Pipes.dll
+D:\study\3 course\2 семестр\избранные главы информатики\лабы\laba7\laba7\bin\System.IO.UnmanagedMemoryStream.dll
+D:\study\3 course\2 семестр\избранные главы информатики\лабы\laba7\laba7\bin\System.Linq.dll
+D:\study\3 course\2 семестр\избранные главы информатики\лабы\laba7\laba7\bin\System.Linq.Expressions.dll
+D:\study\3 course\2 семестр\избранные главы информатики\лабы\laba7\laba7\bin\System.Linq.Parallel.dll
+D:\study\3 course\2 семестр\избранные главы информатики\лабы\laba7\laba7\bin\System.Linq.Queryable.dll
+D:\study\3 course\2 семестр\избранные главы информатики\лабы\laba7\laba7\bin\System.Net.Http.dll
+D:\study\3 course\2 семестр\избранные главы информатики\лабы\laba7\laba7\bin\System.Net.NameResolution.dll
+D:\study\3 course\2 семестр\избранные главы информатики\лабы\laba7\laba7\bin\System.Net.NetworkInformation.dll
+D:\study\3 course\2 семестр\избранные главы информатики\лабы\laba7\laba7\bin\System.Net.Ping.dll
+D:\study\3 course\2 семестр\избранные главы информатики\лабы\laba7\laba7\bin\System.Net.Primitives.dll
+D:\study\3 course\2 семестр\избранные главы информатики\лабы\laba7\laba7\bin\System.Net.Requests.dll
+D:\study\3 course\2 семестр\избранные главы информатики\лабы\laba7\laba7\bin\System.Net.Security.dll
+D:\study\3 course\2 семестр\избранные главы информатики\лабы\laba7\laba7\bin\System.Net.Sockets.dll
+D:\study\3 course\2 семестр\избранные главы информатики\лабы\laba7\laba7\bin\System.Net.WebHeaderCollection.dll
+D:\study\3 course\2 семестр\избранные главы информатики\лабы\laba7\laba7\bin\System.Net.WebSockets.Client.dll
+D:\study\3 course\2 семестр\избранные главы информатики\лабы\laba7\laba7\bin\System.Net.WebSockets.dll
+D:\study\3 course\2 семестр\избранные главы информатики\лабы\laba7\laba7\bin\System.ObjectModel.dll
+D:\study\3 course\2 семестр\избранные главы информатики\лабы\laba7\laba7\bin\System.Reflection.dll
+D:\study\3 course\2 семестр\избранные главы информатики\лабы\laba7\laba7\bin\System.Reflection.Extensions.dll
+D:\study\3 course\2 семестр\избранные главы информатики\лабы\laba7\laba7\bin\System.Reflection.Primitives.dll
+D:\study\3 course\2 семестр\избранные главы информатики\лабы\laba7\laba7\bin\System.Resources.Reader.dll
+D:\study\3 course\2 семестр\избранные главы информатики\лабы\laba7\laba7\bin\System.Resources.ResourceManager.dll
+D:\study\3 course\2 семестр\избранные главы информатики\лабы\laba7\laba7\bin\System.Resources.Writer.dll
+D:\study\3 course\2 семестр\избранные главы информатики\лабы\laba7\laba7\bin\System.Runtime.CompilerServices.VisualC.dll
+D:\study\3 course\2 семестр\избранные главы информатики\лабы\laba7\laba7\bin\System.Runtime.dll
+D:\study\3 course\2 семестр\избранные главы информатики\лабы\laba7\laba7\bin\System.Runtime.Extensions.dll
+D:\study\3 course\2 семестр\избранные главы информатики\лабы\laba7\laba7\bin\System.Runtime.Handles.dll
+D:\study\3 course\2 семестр\избранные главы информатики\лабы\laba7\laba7\bin\System.Runtime.InteropServices.dll
+D:\study\3 course\2 семестр\избранные главы информатики\лабы\laba7\laba7\bin\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\study\3 course\2 семестр\избранные главы информатики\лабы\laba7\laba7\bin\System.Runtime.Numerics.dll
+D:\study\3 course\2 семестр\избранные главы информатики\лабы\laba7\laba7\bin\System.Runtime.Serialization.Formatters.dll
+D:\study\3 course\2 семестр\избранные главы информатики\лабы\laba7\laba7\bin\System.Runtime.Serialization.Json.dll
+D:\study\3 course\2 семестр\избранные главы информатики\лабы\laba7\laba7\bin\System.Runtime.Serialization.Primitives.dll
+D:\study\3 course\2 семестр\избранные главы информатики\лабы\laba7\laba7\bin\System.Runtime.Serialization.Xml.dll
+D:\study\3 course\2 семестр\избранные главы информатики\лабы\laba7\laba7\bin\System.Security.Claims.dll
+D:\study\3 course\2 семестр\избранные главы информатики\лабы\laba7\laba7\bin\System.Security.Cryptography.Algorithms.dll
+D:\study\3 course\2 семестр\избранные главы информатики\лабы\laba7\laba7\bin\System.Security.Cryptography.Csp.dll
+D:\study\3 course\2 семестр\избранные главы информатики\лабы\laba7\laba7\bin\System.Security.Cryptography.Encoding.dll
+D:\study\3 course\2 семестр\избранные главы информатики\лабы\laba7\laba7\bin\System.Security.Cryptography.Primitives.dll
+D:\study\3 course\2 семестр\избранные главы информатики\лабы\laba7\laba7\bin\System.Security.Cryptography.X509Certificates.dll
+D:\study\3 course\2 семестр\избранные главы информатики\лабы\laba7\laba7\bin\System.Security.Principal.dll
+D:\study\3 course\2 семестр\избранные главы информатики\лабы\laba7\laba7\bin\System.Security.SecureString.dll
+D:\study\3 course\2 семестр\избранные главы информатики\лабы\laba7\laba7\bin\System.Text.Encoding.dll
+D:\study\3 course\2 семестр\избранные главы информатики\лабы\laba7\laba7\bin\System.Text.Encoding.Extensions.dll
+D:\study\3 course\2 семестр\избранные главы информатики\лабы\laba7\laba7\bin\System.Text.RegularExpressions.dll
+D:\study\3 course\2 семестр\избранные главы информатики\лабы\laba7\laba7\bin\System.Threading.dll
+D:\study\3 course\2 семестр\избранные главы информатики\лабы\laba7\laba7\bin\System.Threading.Overlapped.dll
+D:\study\3 course\2 семестр\избранные главы информатики\лабы\laba7\laba7\bin\System.Threading.Tasks.dll
+D:\study\3 course\2 семестр\избранные главы информатики\лабы\laba7\laba7\bin\System.Threading.Tasks.Parallel.dll
+D:\study\3 course\2 семестр\избранные главы информатики\лабы\laba7\laba7\bin\System.Threading.Thread.dll
+D:\study\3 course\2 семестр\избранные главы информатики\лабы\laba7\laba7\bin\System.Threading.ThreadPool.dll
+D:\study\3 course\2 семестр\избранные главы информатики\лабы\laba7\laba7\bin\System.Threading.Timer.dll
+D:\study\3 course\2 семестр\избранные главы информатики\лабы\laba7\laba7\bin\System.ValueTuple.dll
+D:\study\3 course\2 семестр\избранные главы информатики\лабы\laba7\laba7\bin\System.Xml.ReaderWriter.dll
+D:\study\3 course\2 семестр\избранные главы информатики\лабы\laba7\laba7\bin\System.Xml.XDocument.dll
+D:\study\3 course\2 семестр\избранные главы информатики\лабы\laba7\laba7\bin\System.Xml.XmlDocument.dll
+D:\study\3 course\2 семестр\избранные главы информатики\лабы\laba7\laba7\bin\System.Xml.XmlSerializer.dll
+D:\study\3 course\2 семестр\избранные главы информатики\лабы\laba7\laba7\bin\System.Xml.XPath.dll
+D:\study\3 course\2 семестр\избранные главы информатики\лабы\laba7\laba7\bin\System.Xml.XPath.XDocument.dll
+D:\study\3 course\2 семестр\избранные главы информатики\лабы\laba7\laba7\bin\EntityFramework.dll
+D:\study\3 course\2 семестр\избранные главы информатики\лабы\laba7\laba7\bin\EntityFramework.SqlServer.dll
+D:\study\3 course\2 семестр\избранные главы информатики\лабы\laba7\laba7\bin\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\study\3 course\2 семестр\избранные главы информатики\лабы\laba7\laba7\bin\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\study\3 course\2 семестр\избранные главы информатики\лабы\laba7\laba7\bin\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\study\3 course\2 семестр\избранные главы информатики\лабы\laba7\laba7\bin\Microsoft.EntityFrameworkCore.dll
+D:\study\3 course\2 семестр\избранные главы информатики\лабы\laba7\laba7\bin\Microsoft.EntityFrameworkCore.Relational.dll
+D:\study\3 course\2 семестр\избранные главы информатики\лабы\laba7\laba7\bin\Microsoft.Extensions.Caching.Abstractions.dll
+D:\study\3 course\2 семестр\избранные главы информатики\лабы\laba7\laba7\bin\Microsoft.Extensions.Caching.Memory.dll
+D:\study\3 course\2 семестр\избранные главы информатики\лабы\laba7\laba7\bin\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\study\3 course\2 семестр\избранные главы информатики\лабы\laba7\laba7\bin\Microsoft.Extensions.Configuration.Binder.dll
+D:\study\3 course\2 семестр\избранные главы информатики\лабы\laba7\laba7\bin\Microsoft.Extensions.Configuration.CommandLine.dll
+D:\study\3 course\2 семестр\избранные главы информатики\лабы\laba7\laba7\bin\Microsoft.Extensions.Configuration.dll
+D:\study\3 course\2 семестр\избранные главы информатики\лабы\laba7\laba7\bin\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+D:\study\3 course\2 семестр\избранные главы информатики\лабы\laba7\laba7\bin\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\study\3 course\2 семестр\избранные главы информатики\лабы\laba7\laba7\bin\Microsoft.Extensions.Configuration.Json.dll
+D:\study\3 course\2 семестр\избранные главы информатики\лабы\laba7\laba7\bin\Microsoft.Extensions.Configuration.UserSecrets.dll
+D:\study\3 course\2 семестр\избранные главы информатики\лабы\laba7\laba7\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\study\3 course\2 семестр\избранные главы информатики\лабы\laba7\laba7\bin\Microsoft.Extensions.DependencyInjection.dll
+D:\study\3 course\2 семестр\избранные главы информатики\лабы\laba7\laba7\bin\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\study\3 course\2 семестр\избранные главы информатики\лабы\laba7\laba7\bin\Microsoft.Extensions.FileProviders.Physical.dll
+D:\study\3 course\2 семестр\избранные главы информатики\лабы\laba7\laba7\bin\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\study\3 course\2 семестр\избранные главы информатики\лабы\laba7\laba7\bin\Microsoft.Extensions.Hosting.Abstractions.dll
+D:\study\3 course\2 семестр\избранные главы информатики\лабы\laba7\laba7\bin\Microsoft.Extensions.Identity.Core.dll
+D:\study\3 course\2 семестр\избранные главы информатики\лабы\laba7\laba7\bin\Microsoft.Extensions.Identity.Stores.dll
+D:\study\3 course\2 семестр\избранные главы информатики\лабы\laba7\laba7\bin\Microsoft.Extensions.Logging.Abstractions.dll
+D:\study\3 course\2 семестр\избранные главы информатики\лабы\laba7\laba7\bin\Microsoft.Extensions.Logging.Configuration.dll
+D:\study\3 course\2 семестр\избранные главы информатики\лабы\laba7\laba7\bin\Microsoft.Extensions.Logging.Console.dll
+D:\study\3 course\2 семестр\избранные главы информатики\лабы\laba7\laba7\bin\Microsoft.Extensions.Logging.Debug.dll
+D:\study\3 course\2 семестр\избранные главы информатики\лабы\laba7\laba7\bin\Microsoft.Extensions.Logging.dll
+D:\study\3 course\2 семестр\избранные главы информатики\лабы\laba7\laba7\bin\Microsoft.Extensions.Logging.EventSource.dll
+D:\study\3 course\2 семестр\избранные главы информатики\лабы\laba7\laba7\bin\Microsoft.Extensions.ObjectPool.dll
+D:\study\3 course\2 семестр\избранные главы информатики\лабы\laba7\laba7\bin\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+D:\study\3 course\2 семестр\избранные главы информатики\лабы\laba7\laba7\bin\Microsoft.Extensions.Options.dll
+D:\study\3 course\2 семестр\избранные главы информатики\лабы\laba7\laba7\bin\Microsoft.Extensions.Primitives.dll
+D:\study\3 course\2 семестр\избранные главы информатики\лабы\laba7\laba7\bin\Microsoft.Extensions.WebEncoders.dll
+D:\study\3 course\2 семестр\избранные главы информатики\лабы\laba7\laba7\bin\Microsoft.Net.Http.Headers.dll
+D:\study\3 course\2 семестр\избранные главы информатики\лабы\laba7\laba7\bin\Microsoft.Win32.Registry.dll
+D:\study\3 course\2 семестр\избранные главы информатики\лабы\laba7\laba7\bin\Remotion.Linq.dll
+D:\study\3 course\2 семестр\избранные главы информатики\лабы\laba7\laba7\bin\System.Buffers.dll
+D:\study\3 course\2 семестр\избранные главы информатики\лабы\laba7\laba7\bin\System.Collections.Immutable.dll
+D:\study\3 course\2 семестр\избранные главы информатики\лабы\laba7\laba7\bin\System.ComponentModel.Annotations.dll
+D:\study\3 course\2 семестр\избранные главы информатики\лабы\laba7\laba7\bin\System.Configuration.ConfigurationManager.dll
+D:\study\3 course\2 семестр\избранные главы информатики\лабы\laba7\laba7\bin\System.Diagnostics.DiagnosticSource.dll
+D:\study\3 course\2 семестр\избранные главы информатики\лабы\laba7\laba7\bin\System.Interactive.Async.dll
+D:\study\3 course\2 семестр\избранные главы информатики\лабы\laba7\laba7\bin\System.IO.Pipelines.dll
+D:\study\3 course\2 семестр\избранные главы информатики\лабы\laba7\laba7\bin\System.Memory.dll
+D:\study\3 course\2 семестр\избранные главы информатики\лабы\laba7\laba7\bin\System.Numerics.Vectors.dll
+D:\study\3 course\2 семестр\избранные главы информатики\лабы\laba7\laba7\bin\System.Reflection.Metadata.dll
+D:\study\3 course\2 семестр\избранные главы информатики\лабы\laba7\laba7\bin\System.Runtime.CompilerServices.Unsafe.dll
+D:\study\3 course\2 семестр\избранные главы информатики\лабы\laba7\laba7\bin\System.Security.AccessControl.dll
+D:\study\3 course\2 семестр\избранные главы информатики\лабы\laba7\laba7\bin\System.Security.Cryptography.Cng.dll
+D:\study\3 course\2 семестр\избранные главы информатики\лабы\laba7\laba7\bin\System.Security.Cryptography.Xml.dll
+D:\study\3 course\2 семестр\избранные главы информатики\лабы\laba7\laba7\bin\System.Security.Permissions.dll
+D:\study\3 course\2 семестр\избранные главы информатики\лабы\laba7\laba7\bin\System.Security.Principal.Windows.dll
+D:\study\3 course\2 семестр\избранные главы информатики\лабы\laba7\laba7\bin\System.Text.Encodings.Web.dll
+D:\study\3 course\2 семестр\избранные главы информатики\лабы\laba7\laba7\bin\System.Threading.Tasks.Extensions.dll
+D:\study\3 course\2 семестр\избранные главы информатики\лабы\laba7\laba7\bin\EntityFramework.xml
+D:\study\3 course\2 семестр\избранные главы информатики\лабы\laba7\laba7\bin\EntityFramework.SqlServer.xml
+D:\study\3 course\2 семестр\избранные главы информатики\лабы\laba7\laba7\bin\Microsoft.AspNetCore.Cryptography.Internal.xml
+D:\study\3 course\2 семестр\избранные главы информатики\лабы\laba7\laba7\bin\Microsoft.AspNetCore.Cryptography.KeyDerivation.xml
+D:\study\3 course\2 семестр\избранные главы информатики\лабы\laba7\laba7\bin\Microsoft.EntityFrameworkCore.xml
+D:\study\3 course\2 семестр\избранные главы информатики\лабы\laba7\laba7\bin\Microsoft.EntityFrameworkCore.Abstractions.xml
+D:\study\3 course\2 семестр\избранные главы информатики\лабы\laba7\laba7\bin\Microsoft.EntityFrameworkCore.Relational.xml
+D:\study\3 course\2 семестр\избранные главы информатики\лабы\laba7\laba7\bin\Microsoft.Extensions.Caching.Abstractions.xml
+D:\study\3 course\2 семестр\избранные главы информатики\лабы\laba7\laba7\bin\Microsoft.Extensions.Caching.Memory.xml
+D:\study\3 course\2 семестр\избранные главы информатики\лабы\laba7\laba7\bin\Microsoft.Extensions.Configuration.xml
+D:\study\3 course\2 семестр\избранные главы информатики\лабы\laba7\laba7\bin\Microsoft.Extensions.Configuration.Abstractions.xml
+D:\study\3 course\2 семестр\избранные главы информатики\лабы\laba7\laba7\bin\Microsoft.Extensions.Configuration.Binder.xml
+D:\study\3 course\2 семестр\избранные главы информатики\лабы\laba7\laba7\bin\Microsoft.Extensions.Configuration.CommandLine.xml
+D:\study\3 course\2 семестр\избранные главы информатики\лабы\laba7\laba7\bin\Microsoft.Extensions.Configuration.EnvironmentVariables.xml
+D:\study\3 course\2 семестр\избранные главы информатики\лабы\laba7\laba7\bin\Microsoft.Extensions.Configuration.FileExtensions.xml
+D:\study\3 course\2 семестр\избранные главы информатики\лабы\laba7\laba7\bin\Microsoft.Extensions.Configuration.Json.xml
+D:\study\3 course\2 семестр\избранные главы информатики\лабы\laba7\laba7\bin\Microsoft.Extensions.Configuration.UserSecrets.xml
+D:\study\3 course\2 семестр\избранные главы информатики\лабы\laba7\laba7\bin\Microsoft.Extensions.DependencyInjection.xml
+D:\study\3 course\2 семестр\избранные главы информатики\лабы\laba7\laba7\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+D:\study\3 course\2 семестр\избранные главы информатики\лабы\laba7\laba7\bin\Microsoft.Extensions.FileProviders.Abstractions.xml
+D:\study\3 course\2 семестр\избранные главы информатики\лабы\laba7\laba7\bin\Microsoft.Extensions.FileProviders.Physical.xml
+D:\study\3 course\2 семестр\избранные главы информатики\лабы\laba7\laba7\bin\Microsoft.Extensions.FileSystemGlobbing.xml
+D:\study\3 course\2 семестр\избранные главы информатики\лабы\laba7\laba7\bin\Microsoft.Extensions.Hosting.Abstractions.xml
+D:\study\3 course\2 семестр\избранные главы информатики\лабы\laba7\laba7\bin\Microsoft.Extensions.Identity.Core.xml
+D:\study\3 course\2 семестр\избранные главы информатики\лабы\laba7\laba7\bin\Microsoft.Extensions.Identity.Stores.xml
+D:\study\3 course\2 семестр\избранные главы информатики\лабы\laba7\laba7\bin\Microsoft.Extensions.Logging.xml
+D:\study\3 course\2 семестр\избранные главы информатики\лабы\laba7\laba7\bin\Microsoft.Extensions.Logging.Abstractions.xml
+D:\study\3 course\2 семестр\избранные главы информатики\лабы\laba7\laba7\bin\Microsoft.Extensions.Logging.Configuration.xml
+D:\study\3 course\2 семестр\избранные главы информатики\лабы\laba7\laba7\bin\Microsoft.Extensions.Logging.Console.xml
+D:\study\3 course\2 семестр\избранные главы информатики\лабы\laba7\laba7\bin\Microsoft.Extensions.Logging.Debug.xml
+D:\study\3 course\2 семестр\избранные главы информатики\лабы\laba7\laba7\bin\Microsoft.Extensions.Logging.EventSource.xml
+D:\study\3 course\2 семестр\избранные главы информатики\лабы\laba7\laba7\bin\Microsoft.Extensions.ObjectPool.xml
+D:\study\3 course\2 семестр\избранные главы информатики\лабы\laba7\laba7\bin\Microsoft.Extensions.Options.xml
+D:\study\3 course\2 семестр\избранные главы информатики\лабы\laba7\laba7\bin\Microsoft.Extensions.Options.ConfigurationExtensions.xml
+D:\study\3 course\2 семестр\избранные главы информатики\лабы\laba7\laba7\bin\Microsoft.Extensions.Primitives.xml
+D:\study\3 course\2 семестр\избранные главы информатики\лабы\laba7\laba7\bin\Microsoft.Extensions.WebEncoders.xml
+D:\study\3 course\2 семестр\избранные главы информатики\лабы\laba7\laba7\bin\Microsoft.Net.Http.Headers.xml
+D:\study\3 course\2 семестр\избранные главы информатики\лабы\laba7\laba7\bin\Remotion.Linq.xml
+D:\study\3 course\2 семестр\избранные главы информатики\лабы\laba7\laba7\bin\System.Buffers.xml
+D:\study\3 course\2 семестр\избранные главы информатики\лабы\laba7\laba7\bin\System.Collections.Immutable.xml
+D:\study\3 course\2 семестр\избранные главы информатики\лабы\laba7\laba7\bin\System.Diagnostics.DiagnosticSource.xml
+D:\study\3 course\2 семестр\избранные главы информатики\лабы\laba7\laba7\bin\System.Interactive.Async.xml
+D:\study\3 course\2 семестр\избранные главы информатики\лабы\laba7\laba7\bin\System.IO.Pipelines.xml
+D:\study\3 course\2 семестр\избранные главы информатики\лабы\laba7\laba7\bin\System.Memory.xml
+D:\study\3 course\2 семестр\избранные главы информатики\лабы\laba7\laba7\bin\System.Numerics.Vectors.xml
+D:\study\3 course\2 семестр\избранные главы информатики\лабы\laba7\laba7\bin\System.Reflection.Metadata.xml
+D:\study\3 course\2 семестр\избранные главы информатики\лабы\laba7\laba7\bin\System.Runtime.CompilerServices.Unsafe.xml
+D:\study\3 course\2 семестр\избранные главы информатики\лабы\laba7\laba7\bin\System.Text.Encodings.Web.xml
+D:\study\3 course\2 семестр\избранные главы информатики\лабы\laba7\laba7\bin\System.Threading.Tasks.Extensions.xml
+D:\study\3 course\2 семестр\избранные главы информатики\лабы\laba7\laba7\bin\Microsoft.AspNet.Identity.Core.dll
+D:\study\3 course\2 семестр\избранные главы информатики\лабы\laba7\laba7\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\study\3 course\2 семестр\избранные главы информатики\лабы\laba7\laba7\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\study\3 course\2 семестр\избранные главы информатики\лабы\laba7\laba7\bin\Microsoft.Owin.dll
+D:\study\3 course\2 семестр\избранные главы информатики\лабы\laba7\laba7\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\study\3 course\2 семестр\избранные главы информатики\лабы\laba7\laba7\bin\Microsoft.Owin.Security.Cookies.dll
+D:\study\3 course\2 семестр\избранные главы информатики\лабы\laba7\laba7\bin\Microsoft.Owin.Security.dll
+D:\study\3 course\2 семестр\избранные главы информатики\лабы\laba7\laba7\bin\Microsoft.Owin.Security.OAuth.dll
+D:\study\3 course\2 семестр\избранные главы информатики\лабы\laba7\laba7\bin\Owin.dll
+D:\study\3 course\2 семестр\избранные главы информатики\лабы\laba7\laba7\bin\System.Net.Http.Formatting.dll
+D:\study\3 course\2 семестр\избранные главы информатики\лабы\laba7\laba7\bin\System.Web.Helpers.dll
+D:\study\3 course\2 семестр\избранные главы информатики\лабы\laba7\laba7\bin\System.Web.Http.dll
+D:\study\3 course\2 семестр\избранные главы информатики\лабы\laba7\laba7\bin\System.Web.Http.Owin.dll
+D:\study\3 course\2 семестр\избранные главы информатики\лабы\laba7\laba7\bin\System.Web.Http.WebHost.dll
+D:\study\3 course\2 семестр\избранные главы информатики\лабы\laba7\laba7\bin\System.Web.Mvc.dll
+D:\study\3 course\2 семестр\избранные главы информатики\лабы\laba7\laba7\bin\System.Web.Razor.dll
+D:\study\3 course\2 семестр\избранные главы информатики\лабы\laba7\laba7\bin\System.Web.WebPages.Deployment.dll
+D:\study\3 course\2 семестр\избранные главы информатики\лабы\laba7\laba7\bin\System.Web.WebPages.dll
+D:\study\3 course\2 семестр\избранные главы информатики\лабы\laba7\laba7\bin\System.Web.WebPages.Razor.dll
+D:\study\3 course\2 семестр\избранные главы информатики\лабы\laba7\laba7\bin\Microsoft.AspNet.Identity.Core.xml
+D:\study\3 course\2 семестр\избранные главы информатики\лабы\laba7\laba7\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\study\3 course\2 семестр\избранные главы информатики\лабы\laba7\laba7\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\study\3 course\2 семестр\избранные главы информатики\лабы\laba7\laba7\bin\Microsoft.Owin.xml
+D:\study\3 course\2 семестр\избранные главы информатики\лабы\laba7\laba7\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\study\3 course\2 семестр\избранные главы информатики\лабы\laba7\laba7\bin\Microsoft.Owin.Security.xml
+D:\study\3 course\2 семестр\избранные главы информатики\лабы\laba7\laba7\bin\Microsoft.Owin.Security.Cookies.xml
+D:\study\3 course\2 семестр\избранные главы информатики\лабы\laba7\laba7\bin\Microsoft.Owin.Security.OAuth.xml
+D:\study\3 course\2 семестр\избранные главы информатики\лабы\laba7\laba7\bin\System.Net.Http.Formatting.xml
+D:\study\3 course\2 семестр\избранные главы информатики\лабы\laba7\laba7\bin\System.Web.Helpers.xml
+D:\study\3 course\2 семестр\избранные главы информатики\лабы\laba7\laba7\bin\System.Web.Http.xml
+D:\study\3 course\2 семестр\избранные главы информатики\лабы\laba7\laba7\bin\System.Web.Http.Owin.xml
+D:\study\3 course\2 семестр\избранные главы информатики\лабы\laba7\laba7\bin\System.Web.Http.WebHost.xml
+D:\study\3 course\2 семестр\избранные главы информатики\лабы\laba7\laba7\bin\System.Web.Mvc.xml
+D:\study\3 course\2 семестр\избранные главы информатики\лабы\laba7\laba7\bin\System.Web.Razor.xml
+D:\study\3 course\2 семестр\избранные главы информатики\лабы\laba7\laba7\bin\System.Web.WebPages.xml
+D:\study\3 course\2 семестр\избранные главы информатики\лабы\laba7\laba7\bin\System.Web.WebPages.Deployment.xml
+D:\study\3 course\2 семестр\избранные главы информатики\лабы\laba7\laba7\bin\System.Web.WebPages.Razor.xml
+D:\Лабораторки\ASP\lab_7\laba7\laba7\bin\ApplicationInsights.config
+D:\Лабораторки\ASP\lab_7\laba7\laba7\bin\laba7.dll.config
+D:\Лабораторки\ASP\lab_7\laba7\laba7\bin\laba7.dll
+D:\Лабораторки\ASP\lab_7\laba7\laba7\bin\laba7.pdb
+D:\Лабораторки\ASP\lab_7\laba7\laba7\bin\roslyn\csc.exe
+D:\Лабораторки\ASP\lab_7\laba7\laba7\bin\roslyn\csc.exe.config
+D:\Лабораторки\ASP\lab_7\laba7\laba7\bin\roslyn\csc.rsp
+D:\Лабораторки\ASP\lab_7\laba7\laba7\bin\roslyn\csi.exe
+D:\Лабораторки\ASP\lab_7\laba7\laba7\bin\roslyn\csi.exe.config
+D:\Лабораторки\ASP\lab_7\laba7\laba7\bin\roslyn\csi.rsp
+D:\Лабораторки\ASP\lab_7\laba7\laba7\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Лабораторки\ASP\lab_7\laba7\laba7\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Лабораторки\ASP\lab_7\laba7\laba7\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Лабораторки\ASP\lab_7\laba7\laba7\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Лабораторки\ASP\lab_7\laba7\laba7\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Лабораторки\ASP\lab_7\laba7\laba7\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Лабораторки\ASP\lab_7\laba7\laba7\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Лабораторки\ASP\lab_7\laba7\laba7\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Лабораторки\ASP\lab_7\laba7\laba7\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Лабораторки\ASP\lab_7\laba7\laba7\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Лабораторки\ASP\lab_7\laba7\laba7\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\Лабораторки\ASP\lab_7\laba7\laba7\bin\roslyn\System.AppContext.dll
+D:\Лабораторки\ASP\lab_7\laba7\laba7\bin\roslyn\System.Collections.Immutable.dll
+D:\Лабораторки\ASP\lab_7\laba7\laba7\bin\roslyn\System.Console.dll
+D:\Лабораторки\ASP\lab_7\laba7\laba7\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Лабораторки\ASP\lab_7\laba7\laba7\bin\roslyn\System.Diagnostics.Process.dll
+D:\Лабораторки\ASP\lab_7\laba7\laba7\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Лабораторки\ASP\lab_7\laba7\laba7\bin\roslyn\System.IO.Compression.dll
+D:\Лабораторки\ASP\lab_7\laba7\laba7\bin\roslyn\System.IO.FileSystem.dll
+D:\Лабораторки\ASP\lab_7\laba7\laba7\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+D:\Лабораторки\ASP\lab_7\laba7\laba7\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Лабораторки\ASP\lab_7\laba7\laba7\bin\roslyn\System.IO.Pipes.dll
+D:\Лабораторки\ASP\lab_7\laba7\laba7\bin\roslyn\System.Reflection.Metadata.dll
+D:\Лабораторки\ASP\lab_7\laba7\laba7\bin\roslyn\System.Security.AccessControl.dll
+D:\Лабораторки\ASP\lab_7\laba7\laba7\bin\roslyn\System.Security.Claims.dll
+D:\Лабораторки\ASP\lab_7\laba7\laba7\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Лабораторки\ASP\lab_7\laba7\laba7\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Лабораторки\ASP\lab_7\laba7\laba7\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Лабораторки\ASP\lab_7\laba7\laba7\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Лабораторки\ASP\lab_7\laba7\laba7\bin\roslyn\System.Security.Principal.Windows.dll
+D:\Лабораторки\ASP\lab_7\laba7\laba7\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Лабораторки\ASP\lab_7\laba7\laba7\bin\roslyn\System.Threading.Thread.dll
+D:\Лабораторки\ASP\lab_7\laba7\laba7\bin\roslyn\System.ValueTuple.dll
+D:\Лабораторки\ASP\lab_7\laba7\laba7\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Лабораторки\ASP\lab_7\laba7\laba7\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Лабораторки\ASP\lab_7\laba7\laba7\bin\roslyn\System.Xml.XPath.dll
+D:\Лабораторки\ASP\lab_7\laba7\laba7\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Лабораторки\ASP\lab_7\laba7\laba7\bin\roslyn\vbc.exe
+D:\Лабораторки\ASP\lab_7\laba7\laba7\bin\roslyn\vbc.exe.config
+D:\Лабораторки\ASP\lab_7\laba7\laba7\bin\roslyn\vbc.rsp
+D:\Лабораторки\ASP\lab_7\laba7\laba7\bin\roslyn\VBCSCompiler.exe
+D:\Лабораторки\ASP\lab_7\laba7\laba7\bin\roslyn\VBCSCompiler.exe.config
+D:\Лабораторки\ASP\lab_7\laba7\laba7\bin\Microsoft.Win32.Primitives.dll
+D:\Лабораторки\ASP\lab_7\laba7\laba7\bin\netstandard.dll
+D:\Лабораторки\ASP\lab_7\laba7\laba7\bin\System.AppContext.dll
+D:\Лабораторки\ASP\lab_7\laba7\laba7\bin\System.Collections.Concurrent.dll
+D:\Лабораторки\ASP\lab_7\laba7\laba7\bin\System.Collections.dll
+D:\Лабораторки\ASP\lab_7\laba7\laba7\bin\System.Collections.NonGeneric.dll
+D:\Лабораторки\ASP\lab_7\laba7\laba7\bin\System.Collections.Specialized.dll
+D:\Лабораторки\ASP\lab_7\laba7\laba7\bin\System.ComponentModel.dll
+D:\Лабораторки\ASP\lab_7\laba7\laba7\bin\System.ComponentModel.EventBasedAsync.dll
+D:\Лабораторки\ASP\lab_7\laba7\laba7\bin\System.ComponentModel.Primitives.dll
+D:\Лабораторки\ASP\lab_7\laba7\laba7\bin\System.ComponentModel.TypeConverter.dll
+D:\Лабораторки\ASP\lab_7\laba7\laba7\bin\System.Console.dll
+D:\Лабораторки\ASP\lab_7\laba7\laba7\bin\System.Data.Common.dll
+D:\Лабораторки\ASP\lab_7\laba7\laba7\bin\System.Diagnostics.Contracts.dll
+D:\Лабораторки\ASP\lab_7\laba7\laba7\bin\System.Diagnostics.Debug.dll
+D:\Лабораторки\ASP\lab_7\laba7\laba7\bin\System.Diagnostics.FileVersionInfo.dll
+D:\Лабораторки\ASP\lab_7\laba7\laba7\bin\System.Diagnostics.Process.dll
+D:\Лабораторки\ASP\lab_7\laba7\laba7\bin\System.Diagnostics.StackTrace.dll
+D:\Лабораторки\ASP\lab_7\laba7\laba7\bin\System.Diagnostics.TextWriterTraceListener.dll
+D:\Лабораторки\ASP\lab_7\laba7\laba7\bin\System.Diagnostics.Tools.dll
+D:\Лабораторки\ASP\lab_7\laba7\laba7\bin\System.Diagnostics.TraceSource.dll
+D:\Лабораторки\ASP\lab_7\laba7\laba7\bin\System.Diagnostics.Tracing.dll
+D:\Лабораторки\ASP\lab_7\laba7\laba7\bin\System.Drawing.Primitives.dll
+D:\Лабораторки\ASP\lab_7\laba7\laba7\bin\System.Dynamic.Runtime.dll
+D:\Лабораторки\ASP\lab_7\laba7\laba7\bin\System.Globalization.Calendars.dll
+D:\Лабораторки\ASP\lab_7\laba7\laba7\bin\System.Globalization.dll
+D:\Лабораторки\ASP\lab_7\laba7\laba7\bin\System.Globalization.Extensions.dll
+D:\Лабораторки\ASP\lab_7\laba7\laba7\bin\System.IO.Compression.dll
+D:\Лабораторки\ASP\lab_7\laba7\laba7\bin\System.IO.Compression.ZipFile.dll
+D:\Лабораторки\ASP\lab_7\laba7\laba7\bin\System.IO.dll
+D:\Лабораторки\ASP\lab_7\laba7\laba7\bin\System.IO.FileSystem.dll
+D:\Лабораторки\ASP\lab_7\laba7\laba7\bin\System.IO.FileSystem.DriveInfo.dll
+D:\Лабораторки\ASP\lab_7\laba7\laba7\bin\System.IO.FileSystem.Primitives.dll
+D:\Лабораторки\ASP\lab_7\laba7\laba7\bin\System.IO.FileSystem.Watcher.dll
+D:\Лабораторки\ASP\lab_7\laba7\laba7\bin\System.IO.IsolatedStorage.dll
+D:\Лабораторки\ASP\lab_7\laba7\laba7\bin\System.IO.MemoryMappedFiles.dll
+D:\Лабораторки\ASP\lab_7\laba7\laba7\bin\System.IO.Pipes.dll
+D:\Лабораторки\ASP\lab_7\laba7\laba7\bin\System.IO.UnmanagedMemoryStream.dll
+D:\Лабораторки\ASP\lab_7\laba7\laba7\bin\System.Linq.dll
+D:\Лабораторки\ASP\lab_7\laba7\laba7\bin\System.Linq.Expressions.dll
+D:\Лабораторки\ASP\lab_7\laba7\laba7\bin\System.Linq.Parallel.dll
+D:\Лабораторки\ASP\lab_7\laba7\laba7\bin\System.Linq.Queryable.dll
+D:\Лабораторки\ASP\lab_7\laba7\laba7\bin\System.Net.Http.dll
+D:\Лабораторки\ASP\lab_7\laba7\laba7\bin\System.Net.NameResolution.dll
+D:\Лабораторки\ASP\lab_7\laba7\laba7\bin\System.Net.NetworkInformation.dll
+D:\Лабораторки\ASP\lab_7\laba7\laba7\bin\System.Net.Ping.dll
+D:\Лабораторки\ASP\lab_7\laba7\laba7\bin\System.Net.Primitives.dll
+D:\Лабораторки\ASP\lab_7\laba7\laba7\bin\System.Net.Requests.dll
+D:\Лабораторки\ASP\lab_7\laba7\laba7\bin\System.Net.Security.dll
+D:\Лабораторки\ASP\lab_7\laba7\laba7\bin\System.Net.Sockets.dll
+D:\Лабораторки\ASP\lab_7\laba7\laba7\bin\System.Net.WebHeaderCollection.dll
+D:\Лабораторки\ASP\lab_7\laba7\laba7\bin\System.Net.WebSockets.Client.dll
+D:\Лабораторки\ASP\lab_7\laba7\laba7\bin\System.Net.WebSockets.dll
+D:\Лабораторки\ASP\lab_7\laba7\laba7\bin\System.ObjectModel.dll
+D:\Лабораторки\ASP\lab_7\laba7\laba7\bin\System.Reflection.dll
+D:\Лабораторки\ASP\lab_7\laba7\laba7\bin\System.Reflection.Extensions.dll
+D:\Лабораторки\ASP\lab_7\laba7\laba7\bin\System.Reflection.Primitives.dll
+D:\Лабораторки\ASP\lab_7\laba7\laba7\bin\System.Resources.Reader.dll
+D:\Лабораторки\ASP\lab_7\laba7\laba7\bin\System.Resources.ResourceManager.dll
+D:\Лабораторки\ASP\lab_7\laba7\laba7\bin\System.Resources.Writer.dll
+D:\Лабораторки\ASP\lab_7\laba7\laba7\bin\System.Runtime.CompilerServices.VisualC.dll
+D:\Лабораторки\ASP\lab_7\laba7\laba7\bin\System.Runtime.dll
+D:\Лабораторки\ASP\lab_7\laba7\laba7\bin\System.Runtime.Extensions.dll
+D:\Лабораторки\ASP\lab_7\laba7\laba7\bin\System.Runtime.Handles.dll
+D:\Лабораторки\ASP\lab_7\laba7\laba7\bin\System.Runtime.InteropServices.dll
+D:\Лабораторки\ASP\lab_7\laba7\laba7\bin\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Лабораторки\ASP\lab_7\laba7\laba7\bin\System.Runtime.Numerics.dll
+D:\Лабораторки\ASP\lab_7\laba7\laba7\bin\System.Runtime.Serialization.Formatters.dll
+D:\Лабораторки\ASP\lab_7\laba7\laba7\bin\System.Runtime.Serialization.Json.dll
+D:\Лабораторки\ASP\lab_7\laba7\laba7\bin\System.Runtime.Serialization.Primitives.dll
+D:\Лабораторки\ASP\lab_7\laba7\laba7\bin\System.Runtime.Serialization.Xml.dll
+D:\Лабораторки\ASP\lab_7\laba7\laba7\bin\System.Security.Claims.dll
+D:\Лабораторки\ASP\lab_7\laba7\laba7\bin\System.Security.Cryptography.Algorithms.dll
+D:\Лабораторки\ASP\lab_7\laba7\laba7\bin\System.Security.Cryptography.Csp.dll
+D:\Лабораторки\ASP\lab_7\laba7\laba7\bin\System.Security.Cryptography.Encoding.dll
+D:\Лабораторки\ASP\lab_7\laba7\laba7\bin\System.Security.Cryptography.Primitives.dll
+D:\Лабораторки\ASP\lab_7\laba7\laba7\bin\System.Security.Cryptography.X509Certificates.dll
+D:\Лабораторки\ASP\lab_7\laba7\laba7\bin\System.Security.Principal.dll
+D:\Лабораторки\ASP\lab_7\laba7\laba7\bin\System.Security.SecureString.dll
+D:\Лабораторки\ASP\lab_7\laba7\laba7\bin\System.Text.Encoding.dll
+D:\Лабораторки\ASP\lab_7\laba7\laba7\bin\System.Text.Encoding.Extensions.dll
+D:\Лабораторки\ASP\lab_7\laba7\laba7\bin\System.Text.RegularExpressions.dll
+D:\Лабораторки\ASP\lab_7\laba7\laba7\bin\System.Threading.dll
+D:\Лабораторки\ASP\lab_7\laba7\laba7\bin\System.Threading.Overlapped.dll
+D:\Лабораторки\ASP\lab_7\laba7\laba7\bin\System.Threading.Tasks.dll
+D:\Лабораторки\ASP\lab_7\laba7\laba7\bin\System.Threading.Tasks.Parallel.dll
+D:\Лабораторки\ASP\lab_7\laba7\laba7\bin\System.Threading.Thread.dll
+D:\Лабораторки\ASP\lab_7\laba7\laba7\bin\System.Threading.ThreadPool.dll
+D:\Лабораторки\ASP\lab_7\laba7\laba7\bin\System.Threading.Timer.dll
+D:\Лабораторки\ASP\lab_7\laba7\laba7\bin\System.ValueTuple.dll
+D:\Лабораторки\ASP\lab_7\laba7\laba7\bin\System.Xml.ReaderWriter.dll
+D:\Лабораторки\ASP\lab_7\laba7\laba7\bin\System.Xml.XDocument.dll
+D:\Лабораторки\ASP\lab_7\laba7\laba7\bin\System.Xml.XmlDocument.dll
+D:\Лабораторки\ASP\lab_7\laba7\laba7\bin\System.Xml.XmlSerializer.dll
+D:\Лабораторки\ASP\lab_7\laba7\laba7\bin\System.Xml.XPath.dll
+D:\Лабораторки\ASP\lab_7\laba7\laba7\bin\System.Xml.XPath.XDocument.dll
+D:\Лабораторки\ASP\lab_7\laba7\laba7\bin\Antlr3.Runtime.dll
+D:\Лабораторки\ASP\lab_7\laba7\laba7\bin\AspNet.ScriptManager.bootstrap.dll
+D:\Лабораторки\ASP\lab_7\laba7\laba7\bin\AspNet.ScriptManager.jQuery.dll
+D:\Лабораторки\ASP\lab_7\laba7\laba7\bin\EntityFramework.dll
+D:\Лабораторки\ASP\lab_7\laba7\laba7\bin\EntityFramework.SqlServer.dll
+D:\Лабораторки\ASP\lab_7\laba7\laba7\bin\Microsoft.AI.Agent.Intercept.dll
+D:\Лабораторки\ASP\lab_7\laba7\laba7\bin\Microsoft.AI.DependencyCollector.dll
+D:\Лабораторки\ASP\lab_7\laba7\laba7\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\Лабораторки\ASP\lab_7\laba7\laba7\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\Лабораторки\ASP\lab_7\laba7\laba7\bin\Microsoft.AI.Web.dll
+D:\Лабораторки\ASP\lab_7\laba7\laba7\bin\Microsoft.AI.WindowsServer.dll
+D:\Лабораторки\ASP\lab_7\laba7\laba7\bin\Microsoft.ApplicationInsights.dll
+D:\Лабораторки\ASP\lab_7\laba7\laba7\bin\Microsoft.AspNet.FriendlyUrls.dll
+D:\Лабораторки\ASP\lab_7\laba7\laba7\bin\Microsoft.AspNet.Identity.Core.dll
+D:\Лабораторки\ASP\lab_7\laba7\laba7\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Лабораторки\ASP\lab_7\laba7\laba7\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\Лабораторки\ASP\lab_7\laba7\laba7\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+D:\Лабораторки\ASP\lab_7\laba7\laba7\bin\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\Лабораторки\ASP\lab_7\laba7\laba7\bin\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\Лабораторки\ASP\lab_7\laba7\laba7\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Лабораторки\ASP\lab_7\laba7\laba7\bin\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Лабораторки\ASP\lab_7\laba7\laba7\bin\Microsoft.EntityFrameworkCore.dll
+D:\Лабораторки\ASP\lab_7\laba7\laba7\bin\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Лабораторки\ASP\lab_7\laba7\laba7\bin\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Лабораторки\ASP\lab_7\laba7\laba7\bin\Microsoft.Extensions.Caching.Memory.dll
+D:\Лабораторки\ASP\lab_7\laba7\laba7\bin\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Лабораторки\ASP\lab_7\laba7\laba7\bin\Microsoft.Extensions.Configuration.Binder.dll
+D:\Лабораторки\ASP\lab_7\laba7\laba7\bin\Microsoft.Extensions.Configuration.CommandLine.dll
+D:\Лабораторки\ASP\lab_7\laba7\laba7\bin\Microsoft.Extensions.Configuration.dll
+D:\Лабораторки\ASP\lab_7\laba7\laba7\bin\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+D:\Лабораторки\ASP\lab_7\laba7\laba7\bin\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\Лабораторки\ASP\lab_7\laba7\laba7\bin\Microsoft.Extensions.Configuration.Json.dll
+D:\Лабораторки\ASP\lab_7\laba7\laba7\bin\Microsoft.Extensions.Configuration.UserSecrets.dll
+D:\Лабораторки\ASP\lab_7\laba7\laba7\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Лабораторки\ASP\lab_7\laba7\laba7\bin\Microsoft.Extensions.DependencyInjection.dll
+D:\Лабораторки\ASP\lab_7\laba7\laba7\bin\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\Лабораторки\ASP\lab_7\laba7\laba7\bin\Microsoft.Extensions.FileProviders.Physical.dll
+D:\Лабораторки\ASP\lab_7\laba7\laba7\bin\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\Лабораторки\ASP\lab_7\laba7\laba7\bin\Microsoft.Extensions.Hosting.Abstractions.dll
+D:\Лабораторки\ASP\lab_7\laba7\laba7\bin\Microsoft.Extensions.Identity.Core.dll
+D:\Лабораторки\ASP\lab_7\laba7\laba7\bin\Microsoft.Extensions.Identity.Stores.dll
+D:\Лабораторки\ASP\lab_7\laba7\laba7\bin\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Лабораторки\ASP\lab_7\laba7\laba7\bin\Microsoft.Extensions.Logging.Configuration.dll
+D:\Лабораторки\ASP\lab_7\laba7\laba7\bin\Microsoft.Extensions.Logging.Console.dll
+D:\Лабораторки\ASP\lab_7\laba7\laba7\bin\Microsoft.Extensions.Logging.Debug.dll
+D:\Лабораторки\ASP\lab_7\laba7\laba7\bin\Microsoft.Extensions.Logging.dll
+D:\Лабораторки\ASP\lab_7\laba7\laba7\bin\Microsoft.Extensions.Logging.EventSource.dll
+D:\Лабораторки\ASP\lab_7\laba7\laba7\bin\Microsoft.Extensions.ObjectPool.dll
+D:\Лабораторки\ASP\lab_7\laba7\laba7\bin\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+D:\Лабораторки\ASP\lab_7\laba7\laba7\bin\Microsoft.Extensions.Options.dll
+D:\Лабораторки\ASP\lab_7\laba7\laba7\bin\Microsoft.Extensions.Primitives.dll
+D:\Лабораторки\ASP\lab_7\laba7\laba7\bin\Microsoft.Extensions.WebEncoders.dll
+D:\Лабораторки\ASP\lab_7\laba7\laba7\bin\Microsoft.Net.Http.Headers.dll
+D:\Лабораторки\ASP\lab_7\laba7\laba7\bin\Microsoft.Owin.dll
+D:\Лабораторки\ASP\lab_7\laba7\laba7\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Лабораторки\ASP\lab_7\laba7\laba7\bin\Microsoft.Owin.Security.Cookies.dll
+D:\Лабораторки\ASP\lab_7\laba7\laba7\bin\Microsoft.Owin.Security.dll
+D:\Лабораторки\ASP\lab_7\laba7\laba7\bin\Microsoft.Owin.Security.OAuth.dll
+D:\Лабораторки\ASP\lab_7\laba7\laba7\bin\Microsoft.ScriptManager.MSAjax.dll
+D:\Лабораторки\ASP\lab_7\laba7\laba7\bin\Microsoft.ScriptManager.WebForms.dll
+D:\Лабораторки\ASP\lab_7\laba7\laba7\bin\Microsoft.Web.Infrastructure.dll
+D:\Лабораторки\ASP\lab_7\laba7\laba7\bin\Microsoft.Win32.Registry.dll
+D:\Лабораторки\ASP\lab_7\laba7\laba7\bin\Newtonsoft.Json.dll
+D:\Лабораторки\ASP\lab_7\laba7\laba7\bin\Owin.dll
+D:\Лабораторки\ASP\lab_7\laba7\laba7\bin\Remotion.Linq.dll
+D:\Лабораторки\ASP\lab_7\laba7\laba7\bin\System.Buffers.dll
+D:\Лабораторки\ASP\lab_7\laba7\laba7\bin\System.Collections.Immutable.dll
+D:\Лабораторки\ASP\lab_7\laba7\laba7\bin\System.ComponentModel.Annotations.dll
+D:\Лабораторки\ASP\lab_7\laba7\laba7\bin\System.Configuration.ConfigurationManager.dll
+D:\Лабораторки\ASP\lab_7\laba7\laba7\bin\System.Diagnostics.DiagnosticSource.dll
+D:\Лабораторки\ASP\lab_7\laba7\laba7\bin\System.Interactive.Async.dll
+D:\Лабораторки\ASP\lab_7\laba7\laba7\bin\System.IO.Pipelines.dll
+D:\Лабораторки\ASP\lab_7\laba7\laba7\bin\System.Memory.dll
+D:\Лабораторки\ASP\lab_7\laba7\laba7\bin\System.Net.Http.Formatting.dll
+D:\Лабораторки\ASP\lab_7\laba7\laba7\bin\System.Numerics.Vectors.dll
+D:\Лабораторки\ASP\lab_7\laba7\laba7\bin\System.Reflection.Metadata.dll
+D:\Лабораторки\ASP\lab_7\laba7\laba7\bin\System.Runtime.CompilerServices.Unsafe.dll
+D:\Лабораторки\ASP\lab_7\laba7\laba7\bin\System.Security.AccessControl.dll
+D:\Лабораторки\ASP\lab_7\laba7\laba7\bin\System.Security.Cryptography.Cng.dll
+D:\Лабораторки\ASP\lab_7\laba7\laba7\bin\System.Security.Cryptography.Xml.dll
+D:\Лабораторки\ASP\lab_7\laba7\laba7\bin\System.Security.Permissions.dll
+D:\Лабораторки\ASP\lab_7\laba7\laba7\bin\System.Security.Principal.Windows.dll
+D:\Лабораторки\ASP\lab_7\laba7\laba7\bin\System.Text.Encodings.Web.dll
+D:\Лабораторки\ASP\lab_7\laba7\laba7\bin\System.Threading.Tasks.Extensions.dll
+D:\Лабораторки\ASP\lab_7\laba7\laba7\bin\System.Web.Helpers.dll
+D:\Лабораторки\ASP\lab_7\laba7\laba7\bin\System.Web.Http.dll
+D:\Лабораторки\ASP\lab_7\laba7\laba7\bin\System.Web.Http.Owin.dll
+D:\Лабораторки\ASP\lab_7\laba7\laba7\bin\System.Web.Http.WebHost.dll
+D:\Лабораторки\ASP\lab_7\laba7\laba7\bin\System.Web.Mvc.dll
+D:\Лабораторки\ASP\lab_7\laba7\laba7\bin\System.Web.Optimization.dll
+D:\Лабораторки\ASP\lab_7\laba7\laba7\bin\System.Web.Razor.dll
+D:\Лабораторки\ASP\lab_7\laba7\laba7\bin\System.Web.WebPages.Deployment.dll
+D:\Лабораторки\ASP\lab_7\laba7\laba7\bin\System.Web.WebPages.dll
+D:\Лабораторки\ASP\lab_7\laba7\laba7\bin\System.Web.WebPages.Razor.dll
+D:\Лабораторки\ASP\lab_7\laba7\laba7\bin\WebGrease.dll
+D:\Лабораторки\ASP\lab_7\laba7\laba7\bin\EntityFramework.xml
+D:\Лабораторки\ASP\lab_7\laba7\laba7\bin\EntityFramework.SqlServer.xml
+D:\Лабораторки\ASP\lab_7\laba7\laba7\bin\Microsoft.AspNet.Identity.Core.xml
+D:\Лабораторки\ASP\lab_7\laba7\laba7\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Лабораторки\ASP\lab_7\laba7\laba7\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\Лабораторки\ASP\lab_7\laba7\laba7\bin\Microsoft.AspNetCore.Cryptography.Internal.xml
+D:\Лабораторки\ASP\lab_7\laba7\laba7\bin\Microsoft.AspNetCore.Cryptography.KeyDerivation.xml
+D:\Лабораторки\ASP\lab_7\laba7\laba7\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Лабораторки\ASP\lab_7\laba7\laba7\bin\Microsoft.EntityFrameworkCore.xml
+D:\Лабораторки\ASP\lab_7\laba7\laba7\bin\Microsoft.EntityFrameworkCore.Abstractions.xml
+D:\Лабораторки\ASP\lab_7\laba7\laba7\bin\Microsoft.EntityFrameworkCore.Relational.xml
+D:\Лабораторки\ASP\lab_7\laba7\laba7\bin\Microsoft.Extensions.Caching.Abstractions.xml
+D:\Лабораторки\ASP\lab_7\laba7\laba7\bin\Microsoft.Extensions.Caching.Memory.xml
+D:\Лабораторки\ASP\lab_7\laba7\laba7\bin\Microsoft.Extensions.Configuration.xml
+D:\Лабораторки\ASP\lab_7\laba7\laba7\bin\Microsoft.Extensions.Configuration.Abstractions.xml
+D:\Лабораторки\ASP\lab_7\laba7\laba7\bin\Microsoft.Extensions.Configuration.Binder.xml
+D:\Лабораторки\ASP\lab_7\laba7\laba7\bin\Microsoft.Extensions.Configuration.CommandLine.xml
+D:\Лабораторки\ASP\lab_7\laba7\laba7\bin\Microsoft.Extensions.Configuration.EnvironmentVariables.xml
+D:\Лабораторки\ASP\lab_7\laba7\laba7\bin\Microsoft.Extensions.Configuration.FileExtensions.xml
+D:\Лабораторки\ASP\lab_7\laba7\laba7\bin\Microsoft.Extensions.Configuration.Json.xml
+D:\Лабораторки\ASP\lab_7\laba7\laba7\bin\Microsoft.Extensions.Configuration.UserSecrets.xml
+D:\Лабораторки\ASP\lab_7\laba7\laba7\bin\Microsoft.Extensions.DependencyInjection.xml
+D:\Лабораторки\ASP\lab_7\laba7\laba7\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+D:\Лабораторки\ASP\lab_7\laba7\laba7\bin\Microsoft.Extensions.FileProviders.Abstractions.xml
+D:\Лабораторки\ASP\lab_7\laba7\laba7\bin\Microsoft.Extensions.FileProviders.Physical.xml
+D:\Лабораторки\ASP\lab_7\laba7\laba7\bin\Microsoft.Extensions.FileSystemGlobbing.xml
+D:\Лабораторки\ASP\lab_7\laba7\laba7\bin\Microsoft.Extensions.Hosting.Abstractions.xml
+D:\Лабораторки\ASP\lab_7\laba7\laba7\bin\Microsoft.Extensions.Identity.Core.xml
+D:\Лабораторки\ASP\lab_7\laba7\laba7\bin\Microsoft.Extensions.Identity.Stores.xml
+D:\Лабораторки\ASP\lab_7\laba7\laba7\bin\Microsoft.Extensions.Logging.xml
+D:\Лабораторки\ASP\lab_7\laba7\laba7\bin\Microsoft.Extensions.Logging.Abstractions.xml
+D:\Лабораторки\ASP\lab_7\laba7\laba7\bin\Microsoft.Extensions.Logging.Configuration.xml
+D:\Лабораторки\ASP\lab_7\laba7\laba7\bin\Microsoft.Extensions.Logging.Console.xml
+D:\Лабораторки\ASP\lab_7\laba7\laba7\bin\Microsoft.Extensions.Logging.Debug.xml
+D:\Лабораторки\ASP\lab_7\laba7\laba7\bin\Microsoft.Extensions.Logging.EventSource.xml
+D:\Лабораторки\ASP\lab_7\laba7\laba7\bin\Microsoft.Extensions.ObjectPool.xml
+D:\Лабораторки\ASP\lab_7\laba7\laba7\bin\Microsoft.Extensions.Options.xml
+D:\Лабораторки\ASP\lab_7\laba7\laba7\bin\Microsoft.Extensions.Options.ConfigurationExtensions.xml
+D:\Лабораторки\ASP\lab_7\laba7\laba7\bin\Microsoft.Extensions.Primitives.xml
+D:\Лабораторки\ASP\lab_7\laba7\laba7\bin\Microsoft.Extensions.WebEncoders.xml
+D:\Лабораторки\ASP\lab_7\laba7\laba7\bin\Microsoft.Net.Http.Headers.xml
+D:\Лабораторки\ASP\lab_7\laba7\laba7\bin\Microsoft.Owin.xml
+D:\Лабораторки\ASP\lab_7\laba7\laba7\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Лабораторки\ASP\lab_7\laba7\laba7\bin\Microsoft.Owin.Security.xml
+D:\Лабораторки\ASP\lab_7\laba7\laba7\bin\Microsoft.Owin.Security.Cookies.xml
+D:\Лабораторки\ASP\lab_7\laba7\laba7\bin\Microsoft.Owin.Security.OAuth.xml
+D:\Лабораторки\ASP\lab_7\laba7\laba7\bin\Newtonsoft.Json.xml
+D:\Лабораторки\ASP\lab_7\laba7\laba7\bin\Remotion.Linq.xml
+D:\Лабораторки\ASP\lab_7\laba7\laba7\bin\System.Buffers.xml
+D:\Лабораторки\ASP\lab_7\laba7\laba7\bin\System.Collections.Immutable.xml
+D:\Лабораторки\ASP\lab_7\laba7\laba7\bin\System.Diagnostics.DiagnosticSource.xml
+D:\Лабораторки\ASP\lab_7\laba7\laba7\bin\System.Interactive.Async.xml
+D:\Лабораторки\ASP\lab_7\laba7\laba7\bin\System.IO.Pipelines.xml
+D:\Лабораторки\ASP\lab_7\laba7\laba7\bin\System.Memory.xml
+D:\Лабораторки\ASP\lab_7\laba7\laba7\bin\System.Net.Http.Formatting.xml
+D:\Лабораторки\ASP\lab_7\laba7\laba7\bin\System.Numerics.Vectors.xml
+D:\Лабораторки\ASP\lab_7\laba7\laba7\bin\System.Reflection.Metadata.xml
+D:\Лабораторки\ASP\lab_7\laba7\laba7\bin\System.Runtime.CompilerServices.Unsafe.xml
+D:\Лабораторки\ASP\lab_7\laba7\laba7\bin\System.Text.Encodings.Web.xml
+D:\Лабораторки\ASP\lab_7\laba7\laba7\bin\System.Threading.Tasks.Extensions.xml
+D:\Лабораторки\ASP\lab_7\laba7\laba7\bin\System.Web.Helpers.xml
+D:\Лабораторки\ASP\lab_7\laba7\laba7\bin\System.Web.Http.xml
+D:\Лабораторки\ASP\lab_7\laba7\laba7\bin\System.Web.Http.Owin.xml
+D:\Лабораторки\ASP\lab_7\laba7\laba7\bin\System.Web.Http.WebHost.xml
+D:\Лабораторки\ASP\lab_7\laba7\laba7\bin\System.Web.Mvc.xml
+D:\Лабораторки\ASP\lab_7\laba7\laba7\bin\System.Web.Razor.xml
+D:\Лабораторки\ASP\lab_7\laba7\laba7\bin\System.Web.WebPages.xml
+D:\Лабораторки\ASP\lab_7\laba7\laba7\bin\System.Web.WebPages.Deployment.xml
+D:\Лабораторки\ASP\lab_7\laba7\laba7\bin\System.Web.WebPages.Razor.xml
+D:\Лабораторки\ASP\lab_7\laba7\laba7\bin\System.Web.Optimization.xml
+D:\Лабораторки\ASP\lab_7\laba7\laba7\bin\Antlr3.Runtime.pdb
+D:\Лабораторки\ASP\lab_7\laba7\laba7\bin\Microsoft.AspNet.FriendlyUrls.xml
+D:\Лабораторки\ASP\lab_7\laba7\laba7\bin\Microsoft.ApplicationInsights.xml
+D:\Лабораторки\ASP\lab_7\laba7\laba7\bin\Microsoft.AI.DependencyCollector.xml
+D:\Лабораторки\ASP\lab_7\laba7\laba7\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\Лабораторки\ASP\lab_7\laba7\laba7\bin\Microsoft.AI.WindowsServer.xml
+D:\Лабораторки\ASP\lab_7\laba7\laba7\bin\Microsoft.AI.Web.xml
+D:\Лабораторки\ASP\lab_7\laba7\laba7\bin\ru\System.Web.Optimization.resources.dll
+D:\Лабораторки\ASP\lab_7\laba7\laba7\bin\ru\Microsoft.AspNet.FriendlyUrls.resources.dll
+D:\Лабораторки\ASP\lab_7\laba7\laba7\obj\Debug\laba7.csprojResolveAssemblyReference.cache
+D:\Лабораторки\ASP\lab_7\laba7\laba7\obj\Debug\laba7.csproj.CoreCompileInputs.cache
+D:\Лабораторки\ASP\lab_7\laba7\laba7\obj\Debug\laba7.dll
+D:\Лабораторки\ASP\lab_7\laba7\laba7\obj\Debug\laba7.pdb
